@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there, I'm Rithwik! 👋
 
-<!--
-**Rithwik4014/Rithwik4014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑 About Me
+- 🎓 CS Student passionate about **Data Structures & Algorithms**
+- 💻 Currently grinding **LeetCode** daily
+- 🌱 Learning **C++**, **Python**, and **Data Science**
+- 📫 Reach me at: **Rithwik4014**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rithwik4014?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Rithwik4014/)
+
+---
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik4014&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik4014&layout=compact&theme=tokyonight)

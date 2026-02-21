@@ -4,7 +4,16 @@
 - 🎓 CS Student passionate about **Data Structures & Algorithms**
 - 💻 Currently grinding **LeetCode** daily
 - 🌱 Learning **C++**, **Python**, and **Data Science**
-- 📫 Reach me at: **Rithwik4014**
+- 📫 Reach me at: **rithwikthotamsetty00@gmail.com**
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik89/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rithwik4014/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rithwik4014)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithwikthotamsetty00@gmail.com)
 
 ---
 
